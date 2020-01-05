@@ -1,0 +1,11 @@
+17.23.2015 04:23:55 : Started 17.11.2015 16.23.55
+17.23.2015 04:23:55 : java.io.FileInputStream.open(Native Method)
+17.23.2015 04:23:55 : java.io.FileInputStream.<init>(FileInputStream.java:138)
+17.23.2015 04:23:55 : java.io.FileReader.<init>(FileReader.java:72)
+17.23.2015 04:23:55 : authoritiesreport.Worker.run(Worker.java:51)
+17.23.2015 04:23:55 : authoritiesreport.AuthoritiesReport.main(AuthoritiesReport.java:8)
+17.23.2015 04:23:55 : ORA-00936: отсутствует выражение
+
+17.25.2015 04:25:06 : Started 17.11.2015 16.25.06
+17.25.2015 04:25:47 : Started 17.11.2015 16.25.47
+17.25.2015 04:25:48 : Finished 17.11.2015 16.25.48

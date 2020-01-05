@@ -1,0 +1,15 @@
+<root>
+    <databaseConnection>
+        <username>contour</username>
+        <password>contour7w</password>
+        <connectionString>jdbc:oracle:thin:@10.254.5.10:1521:BER1</connectionString>
+        <class>oracle.jdbc.driver.OracleDriver</class>
+    </databaseConnection>
+    <inputParameters>
+		<outputEncoding>UTF-8</outputEncoding>
+		<phoneNumbersFile>phones.txt</phoneNumbersFile>
+        <logFile>log.txt</logFile>
+        <sqlFile>sql.sql</sqlFile>
+        <outputFile>Result.txt</outputFile>
+    </inputParameters>  
+</root>
